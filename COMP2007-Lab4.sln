@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP2007-Lab4", "COMP2007-Lab4\COMP2007-Lab4.csproj", "{B36A86BC-15B4-43EB-A5B7-58EBDDAE9248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP2007-Lab4.Tests", "COMP2007-Lab4.Tests\COMP2007-Lab4.Tests.csproj", "{DFCDF77E-B416-482F-9C27-9912BB102651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B36A86BC-15B4-43EB-A5B7-58EBDDAE9248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36A86BC-15B4-43EB-A5B7-58EBDDAE9248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36A86BC-15B4-43EB-A5B7-58EBDDAE9248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36A86BC-15B4-43EB-A5B7-58EBDDAE9248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFCDF77E-B416-482F-9C27-9912BB102651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCDF77E-B416-482F-9C27-9912BB102651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCDF77E-B416-482F-9C27-9912BB102651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCDF77E-B416-482F-9C27-9912BB102651}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
